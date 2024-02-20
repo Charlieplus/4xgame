@@ -1,2 +1,24 @@
 # 4xgame
-Game name: The site of the universe developer division of labor: the use of reward mechanism, specific work items in the work arrangement document. Work record: Single work: Team leader: Xu Shang
+游戏名称：宇宙的遗址
+组长：徐尚
+Main Page 设计，Map generator学习和引入，End,Log,technology Bar脚本编写，ui资源调整，科技，星穹，回合数ui显示，科技条显示，素材寻找。
+组员：宁立
+AI脚本，ui格子边框显示，格子生成脚本，地图赋值（以数组方式呈现），一向箔与黑域脚本。
+组员：丁承霄
+地图赋值（以摄像机方式呈现），智子，购买地块
+组员：陈铕为
+ui资源调整，科技，星穹，回合数ui显示，
+均参与的工作：Map,Value脚本开发
+
+
+目标玩家：文明，群星等4x玩家，钢四，帝国时代4等即时战略, 模拟, 策略玩家。
+背景设定：蓝本是《三体——黑暗森林》，模拟不同宇宙文明之间的扩张，战斗和消亡，以及对宇宙的影响。
+玩法独特性：科技树下的多种宇宙规律武器的模拟。
+
+核心目标：点满科技
+故事：略
+技术：unity2d
+美感：统一ui,像素风格模拟，极简。
+机制：有策略的点击方格，使用各种探测手段与攻击防御手段赢得游戏。
+
+计划如何提供游戏体验：通过玩家与ai之间的战斗获取乐趣，尝试使用不同的武器和手段赢得游戏。
